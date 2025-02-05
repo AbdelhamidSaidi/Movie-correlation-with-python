@@ -33,7 +33,7 @@ After downloading, place the dataset in the **same directory** as the Jupyter No
 1. Clone the repository:  
    ```bash
    https://github.com/AbdelhamidSaidi/Movie-correlation-with-python
-   cd Movie-correlation-with-python
+
    ```
 2. Install the requirements
 ```bash
