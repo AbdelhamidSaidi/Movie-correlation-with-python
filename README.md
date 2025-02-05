@@ -33,3 +33,9 @@ After downloading, place the dataset in the **same directory** as the Jupyter No
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/movie-gross-analysis.git
+   cd Movie-correlation-with-python
+   ```
+2. Install the requirements
+```bash
+   pip install -r requirements.txt
+```
