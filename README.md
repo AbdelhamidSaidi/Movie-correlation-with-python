@@ -32,7 +32,7 @@ After downloading, place the dataset in the **same directory** as the Jupyter No
 ## How to Run the Notebook  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/movie-gross-analysis.git
+   https://github.com/AbdelhamidSaidi/Movie-correlation-with-python
    cd Movie-correlation-with-python
    ```
 2. Install the requirements
