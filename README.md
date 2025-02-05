@@ -36,6 +36,6 @@ After downloading, place the dataset in the **same directory** as the Jupyter No
 
    ```
 2. Install the requirements
-```bash
-   pip install -r requirements.txt
-```
+   ```bash
+      pip install -r requirements.txt
+   ```
